@@ -192,7 +192,7 @@ user.email=billy@billyclasstime.com
 IR AL GITHUB -> COPIAR la ruta del repositorio de git
 ```
 
-![](img/01.png)
+![](img/01.PNG)
 
 Establecemos la conexion
 
