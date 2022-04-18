@@ -13,17 +13,19 @@ Aunque vivió una corta vida de desarrollo, continuó gozando de un crecimiento 
 
 PHP ha pasado por diferentes versiones:
 1. PHP 3 
-```
-PHP 3.0 fue la primera versión que más se parecía al PHP que existe hoy. Encontrando todavía PHP/FI 2.0 ineficiente y falto de las características que necesitaban para impulsar una aplicación de comercio electrónico que estaban desarrollando para un proyecto de universidad, Andi Gutmans y Zeev Suraski, de Tel Aviv, Israel, comenzaron otra nueva versión del analizador subyacente en 1997.
-```
+
+    PHP 3.0 fue la primera versión que más se parecía al PHP que existe hoy.
+ Encontrando todavía PHP/FI 2.0 ineficiente y falto de las características que necesitaban para impulsar una 
+ aplicación de comercio electrónico que estaban desarrollando para un proyecto de universidad, Andi Gutmans y Zeev Suraski, de Tel Aviv, Israel, comenzaron otra nueva versión del analizador subyacente en 1997.
+
 2. PHP 4
-```
-En el invierno de 1998, poco después del lanzamiento oficial de PHP 3.0, Andi Gutmans y Zeev Suraski comenzaron a trabajar en una nueva versión del núcleo de PHP. Los objetivos de diseño fueron mejorar la ejecución de aplicaciones complejas y mejorar la modularidad del código base de PHP.
-```
+
+    En el invierno de 1998, poco después del lanzamiento oficial de PHP 3.0, Andi Gutmans y Zeev Suraski comenzaron a trabajar en una nueva versión del núcleo de PHP. Los objetivos de diseño fueron mejorar la ejecución de aplicaciones complejas y mejorar la modularidad del código base de PHP.
+
 3. PHP 5
-```
-PHP 5 fué lanzado en Julio del 2004 después de un largo desarrollo y varios pre-releases. Está básicamente impulsado por su núcleo, Zend Engine 2.0 que contiene un nuevo modelo de objectos y docenas de nuevas opciones.
-```
+
+    PHP 5 fué lanzado en Julio del 2004 después de un largo desarrollo y varios pre-releases. Está básicamente impulsado por su núcleo, Zend Engine 2.0 que contiene un nuevo modelo de objectos y docenas de nuevas opciones.
+
 
 ## Lenguaje Interpretado
 Un lenguaje interpretado es un lenguaje de programación para el que la mayoría de sus implementaciones ejecuta las instrucciones directamente, sin una previa compilación del programa a instrucciones en lenguaje máquina. El intérprete ejecuta el programa directamente, traduciendo cada sentencia en una secuencia de una o más subrutinas ya compiladas en código máquina.
