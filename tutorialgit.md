@@ -238,7 +238,9 @@ c:><caperta del proyecto> git commit -m "<TEXTO CON LA OBSERVACION DE LA CONFIRM
 ```
 c:><caperta del proyecto> git push main
 ```
-
+```
+c:><caperta del proyecto> git push -u origin main
+```
 4.5 - Revisar el status
 
 ```
