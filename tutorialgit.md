@@ -186,7 +186,9 @@ IR AL GITHUB -> COPIAR la ruta del repositorio de git
 ```
 git remote add main https://github.com/BillyClassTime/FundamentosProgramacionEOI.git
 ```
-
+```
+git remote add origin https://github.com/BillyClassTime/FundamentosProgramacionEOI.git
+```
 NOTA:
 
 Borrar la conexión al repositorio remto si es necesario:
